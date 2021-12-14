@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Publisher
+comment0.text=\r\n\ Class\ Publisher\ with\ some\ changes\ by\ Wolfgang\ Renz,\ May\ 2020\r\n\ \r\n\ Licensed\ to\ the\ Apache\ Software\ Foundation\ (ASF)\ under\ one\ or\ more\r\n\ contributor\ license\ agreements.\ \ See\ the\ NOTICE\ file\ distributed\ with\r\n\ this\ work\ for\ additional\ information\ regarding\ copyright\ ownership.\r\n\ The\ ASF\ licenses\ this\ file\ to\ You\ under\ the\ Apache\ License,\ Version\ 2.0\r\n\ (the\ "License");\ you\ may\ not\ use\ this\ file\ except\ in\ compliance\ with\r\n\ the\ License.\ \ You\ may\ obtain\ a\ copy\ of\ the\ License\ at\r\n\r\n\ \ \ \ \ \ http\://www.apache.org/licenses/LICENSE-2.0\r\n\r\n\ Unless\ required\ by\ applicable\ law\ or\ agreed\ to\ in\ writing,\ software\r\n\ distributed\ under\ the\ License\ is\ distributed\ on\ an\ "AS\ IS"\ BASIS,\r\n\ WITHOUT\ WARRANTIES\ OR\ CONDITIONS\ OF\ ANY\ KIND,\ either\ express\ or\ implied.\r\n\ See\ the\ License\ for\ the\ specific\ language\ governing\ permissions\ and\r\n\ limitations\ under\ the\ License.\r\n
+comment1.params=destination
+comment1.target=Publisher(java.lang.String)
+comment2.params=
+comment2.target=Publisher()
+comment3.params=
+comment3.target=boolean\ connect()
+comment4.params=text
+comment4.target=void\ sendMessage(java.lang.String)
+comment5.params=
+comment5.target=void\ eot()
+numComments=6
